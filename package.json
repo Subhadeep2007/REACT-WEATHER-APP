@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^7.3.6",
+    "@mui/material": "^7.3.6",
+    "bootstrap": "^5.3.8",
+    "react-bootstrap": "^2.10.10",
+    "react-router-dom": "^7.9.6",
+    "uuid": "^13.0.0"
+  }
+}
