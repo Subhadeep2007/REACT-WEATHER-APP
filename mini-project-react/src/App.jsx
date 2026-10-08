@@ -1,13 +1,5 @@
-import React from 'react'
-import Searchbox from '../Searchbox'
+import Home from "./pages/Home";
 
-const App = () => {
-  return (
-    <div>
-      <Searchbox />
-      
-    </div>
-  )
+export default function App() {
+  return <Home />;
 }
-
-export default App
